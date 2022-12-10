@@ -1,0 +1,28 @@
+ {
+        "1" : {
+            
+            "nome": "Eric",
+            "classe": "Guerreiro",
+            "nivel": 5,
+            "inventario": "Escudo, Chainmail e Espada Longa"
+        },
+        "2": {
+            "nome": "Sheila",
+            "classe": "Ladino",
+            "nivel": 4,
+            "inventario": "Espada Curta e Capuz de Invisibilidade"
+        },
+        "3": {
+            "nome": "Presto",
+            "classe": "Mago",
+            "nivel": 3,
+            "inventario": "Cajado de Aprendiz, Livro de Magias nv1 e Roupas de Mago Aprendiz"
+        },
+        "4": {
+            "nome": "Hank",
+            "classe": "Ranger",
+            "nivel": 6,
+            "inventario": "Arco Longo, Botas Élficas e 2x Machadinha"
+        }
+}
+
